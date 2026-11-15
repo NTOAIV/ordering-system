@@ -1,0 +1,15 @@
+MEALS|Meal 1 -> Fried Chicken W/ Garlic Rice|156.25
+MEALS|Meal 2 -> Pasta and Wings W/ Garlic Bread|184.60
+MEALS|Meal 3 -> Steak and Fries W/ Garlic Bread|450.00
+DRINKS|Sprite|40.00
+DRINKS|Juice|20.00
+DRINKS|Coffee|30.00
+DESSERTS|Tiramisu|60.00
+DESSERTS|Ice Cream|20.00
+DESSERTS|Cheesecake|90.00
+SIDES|Coleslaw|25.00
+SIDES|Mashed Potato|35.00
+SIDES|Buttered Corn|25.00
+BUNDLES|Bundle 1 -> Meal 1, Juice, Tiramisu, & Coleslaw|380.60
+BUNDLES|Bundle 2 -> Meal 2, Sprite, Ice Cream, & Buttered Corn|340.60
+BUNDLES|Bundle 3 -> Meal 3, Coffee, Cheesecake, & Mashed Potato|600.00
