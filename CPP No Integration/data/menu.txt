@@ -1,0 +1,12 @@
+MEALS|Fried Chicken with Garlic Rice|120.00
+MEALS|Beef Burger Steak with Rice|150.00
+MEALS|Pork BBQ with Rice|130.00
+DRINKS|Iced Tea|35.00
+DRINKS|Lemonade|40.00
+DRINKS|Bottled Water|25.00
+DESSERTS|Chocolate Cake|80.00
+DESSERTS|Ice Cream|50.00
+SIDES|French Fries|60.00
+SIDES|Garlic Rice|30.00
+BUNDLES|Chicken Meal Bundle|180.00
+BUNDLES|Family BBQ Bundle|450.00
