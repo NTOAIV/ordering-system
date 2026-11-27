@@ -10,7 +10,7 @@ There is no Java or Python integration in this folder. Every part of the system 
 
 ```bat
 cd "CPP No Integration"
-run.bat
+.\run.bat
 ```
 
 Alternatively, compile and run manually using the terminal:
